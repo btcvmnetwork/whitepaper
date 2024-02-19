@@ -16,5 +16,5 @@ The system leverages the features of Taproot, which enables the representation o
 | Page      | Link |
 | :---      |    :----:   |
 | Website | https://www.btcvm.network/ |
-| Explorer(testnet)| https://explorer.btcvm.network/ |
+| Explorer(testnet)| https://scan.btcvm.network/ |
 | Docs | https://btcvm-network.gitbook.io/ |
