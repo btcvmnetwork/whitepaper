@@ -10,6 +10,8 @@ We have improved a method that can verify the correct execution of arbitrary fun
 
 The system leverages the features of Taproot, which enables the representation of the execution process of a set of complex functions through a single hash. By fully executing the ZK proof process off-chain for a block and verifying the proof on Bitcoin through Taproot, the system ensures the validation of blocks. Additionally, when the block miner on Layer2 sends each block validation transaction, they also submit the hash of the corresponding block data and proof data to Bitcoin. Subsequently, anyone can use relevant hash submitted to Bitcoin to obtain comprehensive data from a specific DA layer for third-party verification of Layer2 blocks.
 
+https://btcvm-network.gitbook.io
+
 
 ## Links
 
@@ -18,3 +20,4 @@ The system leverages the features of Taproot, which enables the representation o
 | Website | https://www.btcvm.network/ |
 | Explorer(testnet)| https://scan.btcvm.network/ |
 | Docs | https://btcvm-network.gitbook.io/ |
+| Discord | https://discord.gg/fVwXJaCNtj | 
